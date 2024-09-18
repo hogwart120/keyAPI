@@ -1,1 +1,1 @@
-[{"ver":"002", "view":"true"}]
+[{"ver":"002", "view":"false"}]
